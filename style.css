@@ -47,7 +47,7 @@ form input[type="submit"] {
     cursor: pointer;
 }
 
-#savedContent {
+#saved-Content{
     margin-top: 30px;
     border-top: 1px solid #ccc;
     color: #fff;
@@ -57,22 +57,22 @@ form input[type="submit"] {
     
 }
 
-#savedContent h1 {
+#saved-Content h1 {
     font-size: 25px;
     margin-bottom: 10px;
     list-style-type: decimal-leading-zero;
 }
 
-#savedContent h2 {
+#saved-Content h2 {
     font-size: 20px;
     margin-bottom: 5px;
 }
 
-#savedContent p {
+#saved-Content p {
     margin-bottom: 12px;
 }
 
-#savedContent img {
+#saved-Content img {
     max-width: 100%;
     margin-bottom: 10px;
 }

@@ -17,7 +17,7 @@ document.getElementById("contentForm").addEventListener("submit", function (even
     <p>Video URL: ${video}</p>`;
 
 
-    document.getElementById("savedContent").appendChild(newContent);
+    document.getElementById("saved-Content").appendChild(newContent);
 
     document.getElementById("title").value = "";
     document.getElementById("content").value = "";
